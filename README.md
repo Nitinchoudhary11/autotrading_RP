@@ -1,2 +1,2 @@
-# autotrading_RP
-This section contains all research aper from basic to state of the ART.
+# autotrading_RESEARCH PAPER
+This section contains all research paper from basic to state of the ART.
